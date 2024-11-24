@@ -11,23 +11,37 @@ function MainComponent() {
     {
       title: "Biophysically Detailed Model of Rat Hippocampus CA1 Region",
       description: "Analysis framework for detailed neuron models",
-      tags: ["Python", "Neuroscience","High Performance Computing","Graph Theory"],
+      tags: ["Python", "Neuroscience","HPC","Graph Theory"],
       image:
         "https://ucarecdn.com/c98fb837-ec9c-4c58-bace-fe820b3e7b62/-/format/auto/",
     },
     {
-      title: "Neo4j-3D-VR",
+      title: "Embedding Citation Graphs in VR",
       description: "A 3D force graph visualization in VR using WebXR and Neo4j",
       tags: ["Neo4J", "HTML", "VR"],
       image:
       "https://raw.githubusercontent.com/BlueBrain/citation-graph/main/images/force_3d_graph.png",
     },
     {
-      title: "Neuroagent",
+      title: "Neuroagent: A multiagentic LLM for simulating and analyzing digital brains",
       description: "Explore, Simulate and Analyze Neuron Models using AI Agents",
       tags: ["Python", "LLM", "Agents", "RAG", "Neuroscience"],
       image:
-        "https://raw.githubusercontent.com/KeremKurban/portfolio/main/resumes/neuroagent.jpeg", // Updated image URL
+        "https://raw.githubusercontent.com/KeremKurban/portfolio/main/resumes/neuroagent.jpeg", 
+    },
+    {
+      title: "Sonata to Neo4j",
+      description: "Convert Biophysical Neuron Models and Simulations into Neo4j Graph and create fact sheets.",
+      tags: ["Python", "Neo4j", "Neuroscience"],
+      image:
+        "https://raw.githubusercontent.com/KeremKurban/portfolio/main/resumes/sonata2neo1.jpg",
+    },
+    {
+      title: "Chat with Brain",
+      description: "Talk to Brain Models with Large Language Models",
+      tags: ["Python", "Neo4j", "Neuroscience"],
+      image:
+        "https://raw.githubusercontent.com/KeremKurban/portfolio/main/resumes/dalle_twg.jpeg",
     },
   ];
   const publications = [
